@@ -13,6 +13,7 @@ const AddTodo = () => {
     function handleClickName(){
         dispatch(addName(inputName))
         setInputName('')
+        
     }
   return (
     <div>

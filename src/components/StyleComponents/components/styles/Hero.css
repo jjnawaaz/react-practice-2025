@@ -1,0 +1,7 @@
+.hero-section{
+    background-color: whitesmoke;
+    color: #000000;
+    height: 670px;
+    display: flex;
+    justify-content: center;
+}

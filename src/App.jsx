@@ -1,6 +1,6 @@
 import './App.css'
-import AddTodo from './components/AddTodo'
-import Todos from './components/Todos'
+import One from './components/StyleComponents/One'
+
 
 function App() {
  
@@ -8,9 +8,7 @@ function App() {
   return (
     <>
       <div>
-        Redux Tutorial
-        <AddTodo />
-        <Todos />
+       <One />
       </div>
     </>
   )
